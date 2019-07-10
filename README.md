@@ -24,7 +24,7 @@ Usuario: Gabriel
 Senha: 0987
 
 Usuario: Carlos
-Senha:1234
+Senha: 1234
 ```
 Pronto basta abrir o diretório onde se encontra os arquivos através do seu servidor, se for local: localhost/NomedaPasta.
 
