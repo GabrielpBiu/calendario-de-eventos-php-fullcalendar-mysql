@@ -11,7 +11,7 @@ Calendário WEB onde pode-se criar eventos e conta com uma edição customizada 
 
 Antes de qualquer coisa você precisa ter um ambiente PHP/Apache/Mysql configurado em sua maquina, pois o mesmo necessita de um servidor local para funcionar, eu uso XAMPP para linux, existem outros como Wamp e Vertrigo.
 
-Vá na pasta do seu servidor (Usei o XAMPP 7.3.6) no meu caso a pasta 'htdocs' em outros servidores como Wamp é a 'www' e execute o comando git clone caso tenha o git instalado ou se preferir baixe os arquivos e mova até a mesma.
+Vá na pasta do seu servidor (Usei o XAMPP 7.3.6) no meu caso a pasta 'htdocs' em outros servidores como Wamp é a 'www' e execute o comando git clone, caso tenha o git instalado, ou se preferir baixe os arquivos e mova até a mesma.
 
 ```
 git clone https://github.com/GabrielpBiu/calendario-de-eventos-php-fullcalendar-mysql.git
