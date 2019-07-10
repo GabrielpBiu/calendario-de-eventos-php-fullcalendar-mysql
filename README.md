@@ -7,7 +7,7 @@ Calendario de Eventos com suporte a usuários. (PHP, MySQL, JS, Bootstrap, FullC
 
 Calendário WEB onde pode-se criar eventos e conta com uma edição customizada de arrastar e soltar através do FullCalendar ligado ao banco MySQL.
 
-###Instalando
+### Instalando
 
 Vá na pasta do seu servidor (Usei o XAMPP 7.3.6) no meu caso a pasta 'htdocs' em outros servidores como Wamp é a 'www' e execute o comando git clone ou baixe os arquivos e mova até a mesma.
 
