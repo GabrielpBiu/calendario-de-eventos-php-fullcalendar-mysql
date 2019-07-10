@@ -1,0 +1,15 @@
+body {
+    padding-top: 70px;
+
+}
+#calendar {
+    max-width: 800px;
+}
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+.buttonAlign{
+    margin-top: -34px;
+    margin-left: 30%;
+}
