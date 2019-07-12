@@ -7,6 +7,20 @@ Calendario de Eventos com suporte a usuários. (PHP, MySQL, JS, Bootstrap, FullC
 
 Calendário WEB onde pode-se criar eventos e conta com uma edição customizada de arrastar e soltar através do FullCalendar ligado ao banco MySQL.
 
+## Funções implementadas
+- Login para acesso ao sistema;
+- Adição de eventos;
+- Edição de eventos;
+- Remoção de eventos;
+- Listagem de eventos;
+- Descrição  de eventos;
+- Hora de início do evento;
+- Hora de Termino do evento;
+- Eventos com duração de mais de um dia;
+- Convite a outros usuários para eventos, ou seja, o evento aparecerá no calendário do usuário convidado e o usuário convidado poderá responder se poderá participar ou não;
+- Responsividade;
+
+
 ## Instalando
 
 Antes de qualquer coisa você precisa ter um ambiente PHP/Apache/Mysql configurado em sua maquina, pois o mesmo necessita de um servidor local para funcionar, eu uso XAMPP para linux, existem outros como Wamp e Vertrigo.
